@@ -1,0 +1,15 @@
+body {
+    background-image: url("images/Capture.JPG"), url("images/paintCapture.JPG");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: repeat-y;
+    background-size: 500px 500px;
+  }
+
+  h1
+  {
+color: yellow;
+background-color: blue;
+  }

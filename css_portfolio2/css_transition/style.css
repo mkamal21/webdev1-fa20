@@ -1,0 +1,32 @@
+div {
+    width: 100px;
+    height: 100px;
+    background: green;
+    transition: width 0.1s;
+  }
+  div#first {
+    width: 100px;
+    height: 100px;
+    background: blue;
+    transition: width 0.1s;
+  }
+  div#first:hover{
+      width: 300px;
+  }
+
+  div#one {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: width 0.1s;
+  }
+  div#one:hover{
+    width: 300px;
+}
+
+
+  
+  
+  div:hover {
+    width: 300px;
+  }

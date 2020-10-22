@@ -1,0 +1,14 @@
+h1 {
+  color: purple;
+  background: yellow;
+}
+
+a {
+  display: inline-block;
+  margin: 20px;
+}
+
+img {
+  max-width: 300px;
+  
+}
