@@ -1,0 +1,30 @@
+h2 {text-align: center;
+    background: Red;
+    width: 600px;
+    
+  }
+  
+  p {
+    background: lightblue;
+  }
+  
+  a {
+    background: magenta;
+  }
+  
+  img {
+    width: 500px;
+    
+  }
+  
+  
+  span {
+    color: red;
+    background: blue;
+  }
+  
+  #box-model {
+    border: 4px solid purple;
+    
+  }
+  

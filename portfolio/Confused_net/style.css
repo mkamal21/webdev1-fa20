@@ -1,0 +1,35 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    background-color: red;
+    color: blue;
+   
+    
+}
+
+h3 {
+    background-color: rgb(11, 43, 184);
+    color: rgb(254, 254, 255);
+    }
+
+    h4 {
+        background-color: rgb(176, 248, 7);
+        color: blue;
+        }
+
+        p {
+            color: white;
+            background: red;
+            font-size: 100px;
+          }
+          
+          a {
+            display: inline-block;
+            margin: 20px;
+            background: magenta;
+          }
+          
+          
+          

@@ -1,0 +1,30 @@
+a {
+    display: inline-block;
+    margin: 20px;
+  }
+  .row {
+    display:flex;
+    flex-wrap:wrap;
+
+}
+main.row {
+    flex:1 1 50%;
+    justify-content: center;
+}
+.row {
+       flex-direction: column;
+   } 
+
+
+nav.row{
+    flex-direction: row;
+}
+
+nav  {
+    background-color: blue;
+    position: sticky;
+    top: 0;
+}
+
+
+
