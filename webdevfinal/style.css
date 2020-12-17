@@ -48,13 +48,13 @@ body{
     color:#ffffff;
   }
   #showcase{
-    min-height:300px;
+    min-height:100px;
     background:url('../images/IMG_4796.jpg') no-repeat 0 -500px;
     text-align:center;
     color:#ffffff;
   }
 
-  
+
   .sectionid2{
     min-height: 100px;
     background:url('../images/IMG_8028.jpg') no-repeat 0 -400px;
@@ -62,7 +62,14 @@ body{
     
   }
   
-
+  .myBox {
+    border: none;
+    padding: 5px;
+    font: 24px/36px sans-serif;
+    width: 280px;
+    height: 300px;
+    overflow: scroll;
+    }
 
 .row {
     display:flex;
@@ -164,7 +171,7 @@ p{
 h4{
   text-align: center;
   font-size: 30pt;
-  color: #ffffff;
+  color: greenyellow;
 
 }
 
