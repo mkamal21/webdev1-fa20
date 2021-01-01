@@ -166,7 +166,10 @@ p{
   color: #bce81d;
 }
 
-
+body {
+  background: #000;
+  margin: 0;
+}
 
 h4{
   text-align: center;
