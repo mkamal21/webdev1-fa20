@@ -12,8 +12,8 @@ body {
   font-family: 'Courier New', Courier, monospace;
   position: absolute;
   transform: translateX(-50%);
-  top: 50%;
-  left: 69%;
+  top: 30%;
+  left: 28%;
   }
 
   .matrix {
@@ -22,6 +22,6 @@ body {
   font-family: 'Times New Roman', Times, serif;
   position: absolute;
   transform: translateX(-50%);
-  top: 30%;
-  left: 28%;
+  top: 40%;
+  left: 63%;
   }
